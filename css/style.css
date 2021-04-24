@@ -69,7 +69,7 @@
 }
 .form__list-item--deleted {
     opacity: 0;
-    transition: 1s;
+    transition: .5s;
     background: transparent !important;
     height: 0 !important;
     padding: 0 !important;
